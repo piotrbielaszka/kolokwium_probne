@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.14)
+project(proj CXX)
+# set(CMAKE_CXX_STANDARD 23)
+# set(CMAKE_CXX_STANDARD_REQUIRED ON)
+add_executable(kol_prob main.cpp)
+set_target_properties(kol_prob PROPERTIES CXX_STANDARD 23)
+add_compile_options(-fconcepts)
