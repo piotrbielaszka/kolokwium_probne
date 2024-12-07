@@ -1,0 +1,8 @@
+[
+{
+  "directory": "X:/Magisterka/Semestr_2/CPP/kolokwium_probne/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++23 -o CMakeFiles\\kol_prob.dir\\main.cpp.obj -c X:\\Magisterka\\Semestr_2\\CPP\\kolokwium_probne\\main.cpp",
+  "file": "X:/Magisterka/Semestr_2/CPP/kolokwium_probne/main.cpp",
+  "output": "CMakeFiles/kol_prob.dir/main.cpp.obj"
+}
+]

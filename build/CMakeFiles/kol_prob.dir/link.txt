@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\kol_prob.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\kol_prob.dir/objects.a @CMakeFiles\kol_prob.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\kol_prob.dir/objects.a -Wl,--no-whole-archive -o kol_prob.exe -Wl,--out-implib,libkol_prob.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\kol_prob.dir\linkLibs.rsp

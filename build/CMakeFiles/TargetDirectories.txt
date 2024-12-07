@@ -1,0 +1,3 @@
+X:/Magisterka/Semestr_2/CPP/kolokwium_probne/build/CMakeFiles/kol_prob.dir
+X:/Magisterka/Semestr_2/CPP/kolokwium_probne/build/CMakeFiles/edit_cache.dir
+X:/Magisterka/Semestr_2/CPP/kolokwium_probne/build/CMakeFiles/rebuild_cache.dir
